@@ -1,6 +1,6 @@
 ### Hi there 👋, Chandrika
-#### Software Develper(java)
-![Software Develper(java)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### Senior Systems engineer (java)
+![ Senior Systems engineer(java)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
